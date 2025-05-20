@@ -1,4 +1,4 @@
-# Business-data-analysis-project-1
+# Business-data-analysis
 This project helped me practice SQL and understand how to analyze data using real-world scenarios. I worked with sales data to build useful reports and calculate key metrics.
 ## key practices:
 - Wrote SQL queries to get insights about customers and products.
